@@ -1,0 +1,22 @@
+#accordion_body {
+  padding: 5px 5px 5px 0;
+  font-size: 13px;
+}
+#heads {
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  padding: 10px;
+  border-bottom: 2px solid lightgray;
+}
+#labels {
+  color: #7e8289;
+  font-size: 14px;
+}
+.checkboxs {
+  accent-color: #7d6ce2;
+}
+#MoreItem {
+  color: #7d6ce2;
+  cursor: pointer;
+}

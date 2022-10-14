@@ -1,0 +1,10 @@
+.main_container {
+  flex: 1;
+  background-color: lightgray;
+}
+
+.product_container {
+  display: flex;
+  height: 90vh;
+  flex-wrap: wrap;
+}

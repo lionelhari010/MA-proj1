@@ -1,0 +1,14 @@
+#dropcard {
+  width: 30%;
+}
+#main_container {
+  flex: 1;
+  background-color: lightgray;
+}
+#browse_container {
+  display: flex;
+}
+#displayFilterCard {
+  display: flex;
+  flex-wrap: wrap;
+}
